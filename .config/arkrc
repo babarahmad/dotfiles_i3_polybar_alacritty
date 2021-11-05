@@ -1,0 +1,17 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+LVDS-1 Height 1366x768=702
+LVDS-1 Width 1366x768=1326
+LVDS-1 XPosition 1366x768=20
+LVDS-1 YPosition 1366x768=46
+State=AAAA/wAAAAD9AAAAAAAABS4AAAKMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=881,441
